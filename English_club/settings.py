@@ -21,7 +21,7 @@ SECRET_KEY = os.getenv("SECRET_KEY", "your-secret-key")
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['alarqam-englishclub-production.up.railway.app', '127.0.0.1']
+ALLOWED_HOSTS = ['alarqamenglishclub-production.up.railway.app', '127.0.0.1']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
