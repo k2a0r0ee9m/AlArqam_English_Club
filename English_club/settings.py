@@ -222,7 +222,7 @@ CKEDITOR_5_CONFIGS = {
 }
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://alarqam-englishclub-production.up.railway.app",  # Replace with your actual Railway URL
+    "alarqamenglishclub-production.up.railway.app",  # Replace with your actual Railway URL
 ]
 
 SESSION_COOKIE_SECURE = True
